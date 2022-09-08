@@ -1,5 +1,12 @@
 Ahborkhuja Yodgorov's testing repositiry for
 education course in 8th September 5:31 PM
 <<<<<<< HEAD
+<<<<<<< HEAD
 changes from master 
 changes
+=======
+changes
+changes in master
+=======
+>>>>>>> master
+>>>>>>> 985453f (opt)
